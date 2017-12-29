@@ -13,7 +13,7 @@ var GphApiClient = require('../lib/GphApiClient')
 var _ = require('lodash');
 
 describe('SEARCH - gifs', function() {
-  var apiKey = "4OMJYpPoYwVpe";
+  var apiKey = "h5y5TR753Qa9j74CvMytAKDewCM2vjQL";
   var client = GphApiClient(apiKey);
 
   it('PROMISE - returns search results', function(done) {
